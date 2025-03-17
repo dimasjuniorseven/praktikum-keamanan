@@ -58,7 +58,7 @@ I believe in **continuous learning** and **collaboration** as keys to innovation
 
 ### **Junior Software Engineer / Fullstack Developer** – Ruangguru.com (MSIB Independent Studies Batch 7)  
 *Jakarta, Indonesia*  
-**September, 2024 - December, 2024**  
+**From September 2024 to December 2024**  
 - Contributed to the development of educational web and mobile applications using the **MERN** stack (MongoDB, Express, React, Node).
 - Worked closely with cross-functional teams to design, build, and deploy scalable and efficient solutions.
 
@@ -83,7 +83,9 @@ I believe in **continuous learning** and **collaboration** as keys to innovation
 
 ## Hobbies & Passion
 
-When I'm not coding, you can find me **exploring AI research**, **playing chess**, or **learning new programming languages**. I also enjoy **mentoring** young developers and sharing knowledge with others to help them grow in the tech industry.
+When I'm not coding, you can find me **exploring AI research and Computer Forensics**, **playing football**, or **learning new programming languages**. Coding is not just a job for me; it's a passion that drives me every day. I enjoy the process of solving complex problems and the thrill of bringing ideas to life through code. Whether it's experimenting with new algorithms, building innovative software, or learning new technologies, I'm always excited to dive deeper into the world of programming.
+
+In addition, I also enjoy **mentoring** young developers and sharing knowledge with others to help them grow in the tech industry. Providing insights and guidance to those who are just starting their journey in technology is an incredibly fulfilling experience. I believe that sharing knowledge helps build a stronger, more supportive community of developers. This combination of technical skills and mentoring continues to motivate me to grow and connect with the broader tech community.
 
 ## Contact
 
